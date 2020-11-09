@@ -1,0 +1,26 @@
+body{
+
+}
+.jumbotron{
+    background-image: url('./ari.jpg');
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    border-radius: 0px important;
+}
+.jumbotron h1{
+    margin: 10px 0;
+   font-size: 30px;
+    line-height: 1.5;
+}
+.intro {
+    padding-top: 50px;
+
+}
+.intro img{
+    width: 220px;
+}
+.table{
+    margin-left: 20px;
+}
